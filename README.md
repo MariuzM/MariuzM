@@ -1,11 +1,13 @@
-<div><a href="https://github.com/MariuzM/mac-turbo-mouse"><img align="top" src="assets/row-mac-turbo-mouse.svg" width="800" alt="mac-turbo-mouse"></a></div>
-<div><a href="https://github.com/MariuzM/mac-stats-menu"><img align="top" src="assets/row-mac-stats-menu.svg" width="800" alt="mac-stats-menu"></a></div>
-<div><a href="https://github.com/MariuzM/mac-utils"><img align="top" src="assets/row-mac-utils.svg" width="800" alt="mac-utils"></a></div>
-<div><a href="https://github.com/MariuzM/quicksource"><img align="top" src="assets/row-quicksource.svg" width="800" alt="quicksource"></a></div>
-<div><a href="https://github.com/MariuzM/stop-tahoe-updates"><img align="top" src="assets/row-stop-tahoe-updates.svg" width="800" alt="stop-tahoe-updates"></a></div>
-<div><a href="https://github.com/MariuzM/win-utils"><img align="top" src="assets/row-win-utils.svg" width="800" alt="win-utils"></a></div>
-<div><a href="https://github.com/MariuzM/jai-lsp-scratch"><img align="top" src="assets/row-jai-lsp-scratch.svg" width="800" alt="jai-lsp-scratch"></a></div>
-<div><a href="https://github.com/MariuzM/langpkg.dev"><img align="top" src="assets/row-langpkg.dev.svg" width="800" alt="langpkg.dev"></a></div>
-<div><a href="https://github.com/MariuzM/statement-reader"><img align="top" src="assets/row-statement-reader.svg" width="800" alt="statement-reader"></a></div>
-<div><a href="https://github.com/MariuzM/github-popular-languages"><img align="top" src="assets/row-github-popular-languages.svg" width="800" alt="github-popular-languages"></a></div>
-<div><a href="https://github.com/MariuzM/vrr-flicker-test"><img align="top" src="assets/row-vrr-flicker-test.svg" width="800" alt="vrr-flicker-test"></a></div>
+| Project | Language | Stars |
+| --- | --- | --- |
+| [mac-turbo-mouse](https://github.com/MariuzM/mac-turbo-mouse) | Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-turbo-mouse?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [mac-stats-menu](https://github.com/MariuzM/mac-stats-menu) | Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-stats-menu?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [mac-utils](https://github.com/MariuzM/mac-utils) | Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-utils?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [quicksource](https://github.com/MariuzM/quicksource) | Swift | ![](https://img.shields.io/github/stars/MariuzM/quicksource?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [stop-tahoe-updates](https://github.com/MariuzM/stop-tahoe-updates) | Swift | ![](https://img.shields.io/github/stars/MariuzM/stop-tahoe-updates?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [win-utils](https://github.com/MariuzM/win-utils) | C# | ![](https://img.shields.io/github/stars/MariuzM/win-utils?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [jai-lsp-scratch](https://github.com/MariuzM/jai-lsp-scratch) | Jai | ![](https://img.shields.io/github/stars/MariuzM/jai-lsp-scratch?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [langpkg.dev](https://github.com/MariuzM/langpkg.dev) | TypeScript | ![](https://img.shields.io/github/stars/MariuzM/langpkg.dev?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [statement-reader](https://github.com/MariuzM/statement-reader) | TypeScript | ![](https://img.shields.io/github/stars/MariuzM/statement-reader?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [github-popular-languages](https://github.com/MariuzM/github-popular-languages) | TypeScript | ![](https://img.shields.io/github/stars/MariuzM/github-popular-languages?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [vrr-flicker-test](https://github.com/MariuzM/vrr-flicker-test) | C++ | ![](https://img.shields.io/github/stars/MariuzM/vrr-flicker-test?style=flat&label=%E2%98%85&labelColor=444&color=444) |
