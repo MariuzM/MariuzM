@@ -18,8 +18,6 @@
 
 [github-popular-languages](https://github.com/MariuzM/github-popular-languages) <img src="assets/typescript.svg" width="10" height="10"> TypeScript
 
-[bench](https://github.com/MariuzM/bench) <img src="assets/zig.svg" width="10" height="10"> Zig
-
 [vrr-flicker-test](https://github.com/MariuzM/vrr-flicker-test) <img src="assets/cpp.svg" width="10" height="10"> C++
 
 [learning-graphics](https://github.com/MariuzM/learning-graphics) <img src="assets/css.svg" width="10" height="10"> CSS
