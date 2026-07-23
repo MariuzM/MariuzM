@@ -1,21 +1,21 @@
-[mac-turbo-mouse](https://github.com/MariuzM/mac-turbo-mouse) <img align="right" src="https://img.shields.io/github/stars/MariuzM/mac-turbo-mouse?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-swift.svg">
+[<img src="assets/row-mac-turbo-mouse.svg" width="800" alt="mac-turbo-mouse">](https://github.com/MariuzM/mac-turbo-mouse)
 
-[mac-stats-menu](https://github.com/MariuzM/mac-stats-menu) <img align="right" src="https://img.shields.io/github/stars/MariuzM/mac-stats-menu?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-swift.svg">
+[<img src="assets/row-mac-stats-menu.svg" width="800" alt="mac-stats-menu">](https://github.com/MariuzM/mac-stats-menu)
 
-[mac-utils](https://github.com/MariuzM/mac-utils) <img align="right" src="https://img.shields.io/github/stars/MariuzM/mac-utils?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-swift.svg">
+[<img src="assets/row-mac-utils.svg" width="800" alt="mac-utils">](https://github.com/MariuzM/mac-utils)
 
-[quicksource](https://github.com/MariuzM/quicksource) <img align="right" src="https://img.shields.io/github/stars/MariuzM/quicksource?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-swift.svg">
+[<img src="assets/row-quicksource.svg" width="800" alt="quicksource">](https://github.com/MariuzM/quicksource)
 
-[stop-tahoe-updates](https://github.com/MariuzM/stop-tahoe-updates) <img align="right" src="https://img.shields.io/github/stars/MariuzM/stop-tahoe-updates?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-swift.svg">
+[<img src="assets/row-stop-tahoe-updates.svg" width="800" alt="stop-tahoe-updates">](https://github.com/MariuzM/stop-tahoe-updates)
 
-[win-utils](https://github.com/MariuzM/win-utils) <img align="right" src="https://img.shields.io/github/stars/MariuzM/win-utils?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-csharp.svg">
+[<img src="assets/row-win-utils.svg" width="800" alt="win-utils">](https://github.com/MariuzM/win-utils)
 
-[jai-lsp-scratch](https://github.com/MariuzM/jai-lsp-scratch) <img align="right" src="https://img.shields.io/github/stars/MariuzM/jai-lsp-scratch?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-jai.svg">
+[<img src="assets/row-jai-lsp-scratch.svg" width="800" alt="jai-lsp-scratch">](https://github.com/MariuzM/jai-lsp-scratch)
 
-[langpkg.dev](https://github.com/MariuzM/langpkg.dev) <img align="right" src="https://img.shields.io/github/stars/MariuzM/langpkg.dev?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-typescript.svg">
+[<img src="assets/row-langpkg.dev.svg" width="800" alt="langpkg.dev">](https://github.com/MariuzM/langpkg.dev)
 
-[statement-reader](https://github.com/MariuzM/statement-reader) <img align="right" src="assets/lang-typescript.svg">
+[<img src="assets/row-statement-reader.svg" width="800" alt="statement-reader">](https://github.com/MariuzM/statement-reader)
 
-[github-popular-languages](https://github.com/MariuzM/github-popular-languages) <img align="right" src="https://img.shields.io/github/stars/MariuzM/github-popular-languages?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-typescript.svg">
+[<img src="assets/row-github-popular-languages.svg" width="800" alt="github-popular-languages">](https://github.com/MariuzM/github-popular-languages)
 
-[vrr-flicker-test](https://github.com/MariuzM/vrr-flicker-test) <img align="right" src="https://img.shields.io/github/stars/MariuzM/vrr-flicker-test?style=flat&label=%E2%98%85&labelColor=444&color=444"> <img align="right" src="assets/lang-cpp.svg">
+[<img src="assets/row-vrr-flicker-test.svg" width="800" alt="vrr-flicker-test">](https://github.com/MariuzM/vrr-flicker-test)

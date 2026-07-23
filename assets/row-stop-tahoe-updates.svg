@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="34" viewBox="0 0 800 34" role="img">
+<style>
+  .repo { fill:#0969da; font:600 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+  .lang { fill:#1f2328; font:400 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+  .pill { fill:#eef1f4; font:600 12px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+  @media (prefers-color-scheme: dark) { .repo { fill:#58a6ff; } .lang { fill:#e6edf3; } }
+</style>
+<text class="repo" x="4" y="22">stop-tahoe-updates</text>
+<circle cx="693" cy="17" r="6" fill="#F05138"/>
+<text class="lang" x="744" y="22" text-anchor="end">Swift</text>
+<rect x="758" y="7" width="40" height="20" rx="4" fill="#3d444d"/>
+<text class="pill" x="766" y="21">&#9733;</text>
+<text class="pill" x="790" y="21" text-anchor="end">2</text>
+</svg>
