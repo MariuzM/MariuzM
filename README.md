@@ -1,13 +1,13 @@
 | Project | Language | Stars |
 | --- | --- | --- |
-| [mac-turbo-mouse](https://github.com/MariuzM/mac-turbo-mouse) | Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-turbo-mouse?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [mac-stats-menu](https://github.com/MariuzM/mac-stats-menu) | Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-stats-menu?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [mac-utils](https://github.com/MariuzM/mac-utils) | Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-utils?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [quicksource](https://github.com/MariuzM/quicksource) | Swift | ![](https://img.shields.io/github/stars/MariuzM/quicksource?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [stop-tahoe-updates](https://github.com/MariuzM/stop-tahoe-updates) | Swift | ![](https://img.shields.io/github/stars/MariuzM/stop-tahoe-updates?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [win-utils](https://github.com/MariuzM/win-utils) | C# | ![](https://img.shields.io/github/stars/MariuzM/win-utils?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [jai-lsp-scratch](https://github.com/MariuzM/jai-lsp-scratch) | Jai | ![](https://img.shields.io/github/stars/MariuzM/jai-lsp-scratch?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [langpkg.dev](https://github.com/MariuzM/langpkg.dev) | TypeScript | ![](https://img.shields.io/github/stars/MariuzM/langpkg.dev?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [statement-reader](https://github.com/MariuzM/statement-reader) | TypeScript | ![](https://img.shields.io/github/stars/MariuzM/statement-reader?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [github-popular-languages](https://github.com/MariuzM/github-popular-languages) | TypeScript | ![](https://img.shields.io/github/stars/MariuzM/github-popular-languages?style=flat&label=%E2%98%85&labelColor=444&color=444) |
-| [vrr-flicker-test](https://github.com/MariuzM/vrr-flicker-test) | C++ | ![](https://img.shields.io/github/stars/MariuzM/vrr-flicker-test?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [mac-turbo-mouse](https://github.com/MariuzM/mac-turbo-mouse) | <img src="assets/dot-swift.svg" width="12" height="12"> Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-turbo-mouse?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [mac-stats-menu](https://github.com/MariuzM/mac-stats-menu) | <img src="assets/dot-swift.svg" width="12" height="12"> Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-stats-menu?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [mac-utils](https://github.com/MariuzM/mac-utils) | <img src="assets/dot-swift.svg" width="12" height="12"> Swift | ![](https://img.shields.io/github/stars/MariuzM/mac-utils?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [quicksource](https://github.com/MariuzM/quicksource) | <img src="assets/dot-swift.svg" width="12" height="12"> Swift | ![](https://img.shields.io/github/stars/MariuzM/quicksource?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [stop-tahoe-updates](https://github.com/MariuzM/stop-tahoe-updates) | <img src="assets/dot-swift.svg" width="12" height="12"> Swift | ![](https://img.shields.io/github/stars/MariuzM/stop-tahoe-updates?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [win-utils](https://github.com/MariuzM/win-utils) | <img src="assets/dot-csharp.svg" width="12" height="12"> C# | ![](https://img.shields.io/github/stars/MariuzM/win-utils?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [jai-lsp-scratch](https://github.com/MariuzM/jai-lsp-scratch) | <img src="assets/dot-jai.svg" width="12" height="12"> Jai | ![](https://img.shields.io/github/stars/MariuzM/jai-lsp-scratch?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [langpkg.dev](https://github.com/MariuzM/langpkg.dev) | <img src="assets/dot-typescript.svg" width="12" height="12"> TypeScript | ![](https://img.shields.io/github/stars/MariuzM/langpkg.dev?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [statement-reader](https://github.com/MariuzM/statement-reader) | <img src="assets/dot-typescript.svg" width="12" height="12"> TypeScript | ![](https://img.shields.io/github/stars/MariuzM/statement-reader?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [github-popular-languages](https://github.com/MariuzM/github-popular-languages) | <img src="assets/dot-typescript.svg" width="12" height="12"> TypeScript | ![](https://img.shields.io/github/stars/MariuzM/github-popular-languages?style=flat&label=%E2%98%85&labelColor=444&color=444) |
+| [vrr-flicker-test](https://github.com/MariuzM/vrr-flicker-test) | <img src="assets/dot-cpp.svg" width="12" height="12"> C++ | ![](https://img.shields.io/github/stars/MariuzM/vrr-flicker-test?style=flat&label=%E2%98%85&labelColor=444&color=444) |
