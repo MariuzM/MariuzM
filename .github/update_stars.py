@@ -26,7 +26,7 @@ for line in lines:
     m = re.search(r'<a href="https://github\.com/MariuzM/([^"]+)">', line)
     if m:
         line = re.sub(
-            r"(</picture>&nbsp;)[^<]*(</td>)",
+            r"(</picture>&nbsp;)[^&<]*(&nbsp;)",
             lambda s: s.group(1) + fmt(stars(m.group(1))) + s.group(2),
             line,
         )
